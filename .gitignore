@@ -1,0 +1,9 @@
+# Log files
+*.log
+
+# Virtual environment
+venv/
+
+# macOS system files
+.DS_Store
+
